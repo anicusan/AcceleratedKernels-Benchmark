@@ -1,0 +1,26 @@
+Name                Median          Std
+Apple_LJG_Base      219.470         0.54
+Apple_LJG_C         1253.0          4.126
+Apple_LJG_C2        426.367         1.243
+Apple_LJG_COMP      28.525          1.102
+Apple_LJG_AKCPU     27.926          0.946
+Apple_LJG_AKGPU     10.484          0.151
+Apple_RBF_Base      318.354         2.793
+Apple_RBF_C         210.572         1.057
+Apple_RBF_COMP      23.249          1.095
+Apple_RBF_AKCPU     36.325          0.798
+Apple_RBF_AKGPU     6.244           0.103
+BBIceLake_LJG_Base  335.797         1.774
+BBIceLake_LJG_C     470.608         1.315
+BBIceLake_LJG_C2    381.334         1.051
+BBIceLake_LJG_COMP  53.005          10.074
+BBIceLake_LJG_AKCPU 49.455          9.248
+BBAMD_LJG_AKGPU     3.093           0.325
+BBCUDA_LJG_AKGPU    6.031           0.004
+BBIceLake_RBF_Base  734.224         0.288
+BBIceLake_RBF_C     641.261         0.663
+BBIceLake_RBF_COMP  64.924          0.053
+BBIceLake_RBF_AKCPU 74.538          0.047
+BBAMD_RBF_AKGPU     2.197           0.565
+BBCUDA_RBF_AKGPU    3.117           0.003
+
